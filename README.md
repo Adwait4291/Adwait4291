@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adwait Tiwari</h1>
-<h3 align="center">ML Engineer</h3>
+<h3 align="center">ML DL GEN-AI DATA </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adwait4291&label=Profile%20views&color=0e75b6&style=flat" alt="adwait4291" /> </p>
 
