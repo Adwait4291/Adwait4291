@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Adwait Tiwari</h1>
 <h3 align="center">ML DL GEN-AI DATA </h3>
 
