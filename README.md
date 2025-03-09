@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adwait4291&" alt="adwait4291" /></p>
 
-https://github.com/Adwait4291/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
